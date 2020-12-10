@@ -1,0 +1,5 @@
+pyautogui
+keyboard
+playsound
+discord
+opencv-python
