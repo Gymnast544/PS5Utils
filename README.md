@@ -37,3 +37,6 @@ Go through the target checkout process and take multiple screenshots of the plac
 I have included some screenshots but they might not work super well for your computer
 
 Press ctrl+y in order to stop the clicking (and regain control of mouse)
+
+
+Take a look at my other tips https://www.notion.so/gymnast544mods/PS5-Tips-2f334d731d56487f8e6c2e94f285d4da
