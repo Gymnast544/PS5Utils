@@ -1,4 +1,9 @@
 # PS5Utils
+
+## Various utilities I developed to help with acquiring a PS5 console when they were impossible to get
+
+
+#### Usage instructions
  
 Uses python 3, install at https://www.python.org/downloads/
 In command prompt install all of the packages in requirements.txt using pip (Navigate to the folder with the download, do pip install -r "requirements.txt")
@@ -38,5 +43,3 @@ I have included some screenshots but they might not work super well for your com
 
 Press ctrl+y in order to stop the clicking (and regain control of mouse)
 
-
-Take a look at my other tips (as well as how to get the API link for the stock checker) https://www.notion.so/gymnast544mods/PS5-Tips-2f334d731d56487f8e6c2e94f285d4da
